@@ -10,7 +10,8 @@ int main() {
     float area1, area2, pib1, pib2;
     float densidade1, densidade2;
     float pibpercapita1, pibpercapita2;
-
+    float superpoder;
+    
     // Leitura da primeira carta
     printf("Digite o nome do primeiro estado: ");
     scanf("%19s", estado1);
